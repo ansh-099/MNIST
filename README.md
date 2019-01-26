@@ -1,6 +1,6 @@
 # MNIST_implementation
 This algorithm Predicts hand written Numbers. <br />
-The MNIST database is available at http://yann.lecun.com/exdb/mnist/
+The MNIST dataset is available at http://yann.lecun.com/exdb/mnist/
 
 We have 28 * 28 pixels handwritten images for example-
 
